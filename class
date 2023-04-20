@@ -1,0 +1,5 @@
+class Pc_Components:
+    def __init__(self, componentA, componentB, componentC):
+        self.componentA = componentA
+        self.componentB = componentB
+        self.componentC = componentC
