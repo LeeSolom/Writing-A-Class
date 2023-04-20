@@ -3,3 +3,11 @@ class Pc_Components:
         self.componentA = componentA
         self.componentB = componentB
         self.componentC = componentC
+
+pc=Pc_Components('parts','gpu','cpu','ram')
+
+
+
+print(pc.componentA)
+print(pc.componentB)
+print(pc.componentC)
